@@ -33,7 +33,7 @@ The file must use `;` as the column separator.
 * Main forecast plot (next 30 days)
 * Trend, weekly, and yearly seasonality components
 
-## Notes
+## Note
 
 * Forecast horizon is fixed at 30 days
 * Country holidays are set to Brazil (`BR`)
